@@ -24,8 +24,7 @@ This project is designed for small retail shops to manage product billing and pa
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/d3fca762-d1ab-4872-beaf-ccc06d4ad826" width="300"/>
+      <img src="https://github.com/gayani7/Billing-System-in-Java/blob/master/Screenshot.png?raw=true" width="300"/>
     </td>
-   
   </tr>
 </table>
